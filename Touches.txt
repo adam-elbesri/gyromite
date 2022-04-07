@@ -1,0 +1,3 @@
+Flèches directionnelles = Se déplacer
+Touche X = Lever les pilliers
+Touche C = Baisser les pilliers
